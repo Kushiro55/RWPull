@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: RWPull
+## Version: Alpha_v.0.3
+## Notes: lightweight raidwarning pull
+## Author: sixthxz - kushirodkz@gmail.com 
+
+RWPull.lua
